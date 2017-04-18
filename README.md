@@ -1,2 +1,4 @@
 # Tsunami_Generation_Benchmark
-This repository contains documentation, data, and results from the laboratory experiments conducted by Colin Whattaker at the University of Canterbury, Christchurch, New Zealand.
+This repository contains documentation, data, and results from the laboratory experiments conducted by Colin Whittaker at the University of Canterbury, Christchurch, New Zealand.
+This experiment addresses tsunami generation by a semi-elliptical block moving along a horizontal boundary at the base of a long narrow wave flume. The data are intended for use as a benchmark for numerical models.
+The repository is organised into a documentation directory that contains a PhD thesis and relevant papers, a data directory that contains a sample grid and slider location specifications, and a results directory that contains time-series and spatial data for use in model comparisons.
