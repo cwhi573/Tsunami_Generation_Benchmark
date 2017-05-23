@@ -1,0 +1,14 @@
+
+
+  This subdirectory contains 2 programs for calculating the bottom elevation
+  as a function of time. Both programs set the acceleration and terminal velocity
+  of the elliptical slider for one of the experiments. The programs contain a
+  driver program that calls a subroutine that could be included in an arbitrary
+  hydrodynamics program.
+  
+  Program Slider_geometry85.f90 calculates the bottom elevation for an elliptical
+  slider that replicates the laboratory experiment.
+  
+  Program Slider_geometry86.f90 is similar but smoothes the ends of the slider
+  for depth-averaged non-hydrostatic simulators or other codes as required.
+  
